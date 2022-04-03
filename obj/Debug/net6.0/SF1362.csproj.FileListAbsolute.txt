@@ -1,0 +1,15 @@
+/home/beibarsov/csharp/SF1362/bin/Debug/net6.0/SF1362
+/home/beibarsov/csharp/SF1362/bin/Debug/net6.0/SF1362.deps.json
+/home/beibarsov/csharp/SF1362/bin/Debug/net6.0/SF1362.runtimeconfig.json
+/home/beibarsov/csharp/SF1362/bin/Debug/net6.0/SF1362.dll
+/home/beibarsov/csharp/SF1362/bin/Debug/net6.0/ref/SF1362.dll
+/home/beibarsov/csharp/SF1362/bin/Debug/net6.0/SF1362.pdb
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/SF1362.csproj.AssemblyReference.cache
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/SF1362.GeneratedMSBuildEditorConfig.editorconfig
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/SF1362.AssemblyInfoInputs.cache
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/SF1362.AssemblyInfo.cs
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/SF1362.csproj.CoreCompileInputs.cache
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/SF1362.dll
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/ref/SF1362.dll
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/SF1362.pdb
+/home/beibarsov/csharp/SF1362/obj/Debug/net6.0/SF1362.genruntimeconfig.cache

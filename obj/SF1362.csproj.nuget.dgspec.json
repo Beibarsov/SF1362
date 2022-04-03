@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/beibarsov/csharp/SF1362/SF1362.csproj": {}
+  },
+  "projects": {
+    "/home/beibarsov/csharp/SF1362/SF1362.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/beibarsov/csharp/SF1362/SF1362.csproj",
+        "projectName": "SF1362",
+        "projectPath": "/home/beibarsov/csharp/SF1362/SF1362.csproj",
+        "packagesPath": "/home/beibarsov/.nuget/packages/",
+        "outputPath": "/home/beibarsov/csharp/SF1362/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/beibarsov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/beibarsov/.dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
